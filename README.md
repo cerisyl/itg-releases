@@ -15,6 +15,7 @@ Download the selected file, and unzip the contents wherever you'd like. Then, un
 Click a banner to quickly download any of the packs or files listed below!
 
 ### **Stamina**
+<a href="https://github.com/cerisyl/itg-releases/raw/main/packs/CERiSTREAMS%202.zip"><img width="406" src="https://i.imgur.com/tXfunAV.png" alt="CERiSTREAMS 2"></a>
 <a href="https://github.com/cerisyl/itg-releases/raw/main/packs/CERiSTREAMS.zip"><img width="406" src="https://i.imgur.com/FDthO7X.png" alt="CERiSTREAMS"></a>
 
 ### **Tech**
